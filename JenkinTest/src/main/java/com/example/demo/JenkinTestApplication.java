@@ -15,7 +15,7 @@ public class JenkinTestApplication {
 	@GetMapping("/hello")
 	public String HelloWorld()
 	{
-		return "HelloWorld";
+		return "HelloWorld88";
 	}
 
 }
